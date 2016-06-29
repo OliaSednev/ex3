@@ -1,0 +1,10 @@
+c:\users\oliak\documents\visual studio 2015\Projects\Shapes\ShapeLib\bin\Debug\ShapeLib.dll
+c:\users\oliak\documents\visual studio 2015\Projects\Shapes\ShapeLib\bin\Debug\ShapeLib.pdb
+c:\users\oliak\documents\visual studio 2015\Projects\Shapes\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
+c:\users\oliak\documents\visual studio 2015\Projects\Shapes\ShapeLib\obj\Debug\ShapeLib.dll
+c:\users\oliak\documents\visual studio 2015\Projects\Shapes\ShapeLib\obj\Debug\ShapeLib.pdb
+C:\Users\oliak\Desktop\Olia Sednev HW2\EX5_1 and 5_2 Olia Sednev\Shapes\ShapeLib\bin\Debug\ShapeLib.dll
+C:\Users\oliak\Desktop\Olia Sednev HW2\EX5_1 and 5_2 Olia Sednev\Shapes\ShapeLib\bin\Debug\ShapeLib.pdb
+C:\Users\oliak\Desktop\Olia Sednev HW2\EX5_1 and 5_2 Olia Sednev\Shapes\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
+C:\Users\oliak\Desktop\Olia Sednev HW2\EX5_1 and 5_2 Olia Sednev\Shapes\ShapeLib\obj\Debug\ShapeLib.dll
+C:\Users\oliak\Desktop\Olia Sednev HW2\EX5_1 and 5_2 Olia Sednev\Shapes\ShapeLib\obj\Debug\ShapeLib.pdb
